@@ -1,5 +1,5 @@
-print("hello world")
+print("hello world;")
 
-print("hello world...")
-print("add file")
-print("hello");
+print("hello world...;")
+print("add file;")
+print("hello;");
