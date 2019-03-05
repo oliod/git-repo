@@ -1,7 +1,5 @@
-print("hello world")
-
-print("hello world...")
-print("add file")
+print("hello world;")
+print("hello everybody;")
 print("hello");
 print("hello my dear friends");
 print("glad to see you");
